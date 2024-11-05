@@ -1,0 +1,8 @@
+﻿"Anahtar","Konu Türü","Üst Öğe","Özet","Durum","Atanan Kişi","Sprint","Start date","Kullanılacak başlangıç tarihi","Bitiş tarihi","Kullanılacak bitiş tarihi","Issue color"
+"SCRUM-5","Epik","","Improve Customer Service","Yapılacaklar","Mehmet Furkan Kaplan","","2024/09/20","2024/09/20","2024/11/26","2024/11/26","purple"
+"SCRUM-6","Hikaye","SCRUM-5","Provide live chat as a feature","Yapılacaklar","","SCRUM 1 adlı sprint","","2024/11/06","","2024/11/09","purple"
+"SCRUM-9","Görev","SCRUM-5","Add Whatsapp chat to our website","İNCELEME","","SCRUM 1 adlı sprint","","2024/11/06","","2024/11/09","purple"
+"SCRUM-10","Görev","SCRUM-5","Add Facebook Messenger chat to our website","Yapılacaklar","","SCRUM 1 adlı sprint","","2024/11/06","","2024/11/09","purple"
+"SCRUM-7","Hikaye","SCRUM-5","Create a video based knowledge base","Yapılacaklar","","","","","","","purple"
+"SCRUM-3","Epik","","Increase Product Page Conversions","Yapılacaklar","Mehmet Furkan Kaplan","","2024/09/18","2024/09/18","2024/11/20","2024/11/20","teal"
+"SCRUM-8","Hikaye","SCRUM-3","Create a review based system for collecting and showing reviews","Yapılacaklar","","","","","","","purple"
